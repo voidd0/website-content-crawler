@@ -1,0 +1,8 @@
+{
+  "startUrls": [
+    "https://docs.python.org/3/library/"
+  ],
+  "maxDepth": 1,
+  "maxPagesPerUrl": 15,
+  "maxItems": 20
+}

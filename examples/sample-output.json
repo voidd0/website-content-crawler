@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.python.org/3/library/",
+    "title": "The Python standard library",
+    "h1": "The Python standard library",
+    "breadcrumbs": [],
+    "description": "This library reference manual describes the standard library distributed with Python. It also describes some of the optional components that are commonly included in Python distributions. Elsewhere...",
+    "textContent": "The Python standard library  This library reference manual describes the standard library\ndistributed with Python. It also describes some of the optional\ncomponents that are commonly included in Python distributions. Elsewhere, The Python Language Reference describes the exact...",
+    "wordCount": 1779,
+    "depth": 0
+  },
+  {
+    "url": "https://docs.python.org/3/library/intro.html",
+    "title": "Introduction",
+    "h1": "Introduction",
+    "breadcrumbs": [
+      "The Python standard library",
+      "Introduction"
+    ],
+    "description": "The Python standard library consists of a collection of modules. There are many ways to dissect this collection. Most modules are written in Python, but some are written in C. All can be imported i...",
+    "textContent": "Introduction  The Python standard library consists of a collection of modules. There are\nmany ways to dissect this collection.  Most modules are written in Python,\nbut some are written in C. All can be imported into your program to add\nfunctionality.  Some modules provide inte...",
+    "wordCount": 1089,
+    "depth": 1
+  },
+  {
+    "url": "https://docs.python.org/3/library/text.html",
+    "title": "Text Processing Services",
+    "h1": "Text Processing Services",
+    "breadcrumbs": [
+      "The Python standard library",
+      "Text Processing Services"
+    ],
+    "description": "The modules described in this chapter provide a wide range of string manipulation operations and other text processing services. The codecs module described under Binary Data Services is also highl...",
+    "textContent": "Text Processing Services  The modules described in this chapter provide a wide range of string\nmanipulation operations and other text processing services. The codecs module described under Binary Data Services is also\nhighly relevant to text processing. In addition, see the do...",
+    "wordCount": 217,
+    "depth": 1
+  }
+]
